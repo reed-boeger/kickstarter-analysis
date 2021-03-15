@@ -6,7 +6,9 @@ The purpose of this analysis was to find an optimal launch date and fundraising 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes based on launch date](Theater_Outcomes_vs_Launch.jpg)
+![Outcomes based on launch date](resources/Theater_Outcomes_vs_Launch.png)
+<img src="resources/Theater_Outcomes_vs_Launch.png" 
+width ="600" height="350">
 
 ### Analysis of Outcomes Based on Goals
 
